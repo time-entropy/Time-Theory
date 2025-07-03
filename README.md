@@ -1,6 +1,6 @@
 # Time-Theory 
 
-## From subjective perception to objective counting of state refresh
+## Time concept From subjective perception to objective counting of state refresh
 
 
 ## Time in SR as a observer's perception
